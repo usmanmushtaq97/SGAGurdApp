@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24" />
+    <item android:title="Alert"
+        android:id="@+id/emergecny_nav_id"
+        android:icon="@drawable/ic_baseline_add_alert_24"
+        />
+    <item
+        android:id="@+id/attendane_id"
+        android:title="Attendance"
+        android:icon="@drawable/ic_baseline_view_day_24"
+        />
+    <item android:id="@+id/profile_id"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+      />
+</menu>
